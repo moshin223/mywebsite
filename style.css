@@ -1,3 +1,17 @@
 body {
-   background-color: aqua; color: rgb(211, 61, 61);
+   background-color: aqua; 
+   color: rgb(211, 61, 61);
+   font-size: 21px;
+}
+
+p {
+   color: rgb(173, 114, 114);
+   
+}
+
+h1{font-size: 70px;}
+
+
+div {
+   background-color: rgb(88, 116, 116);
 }
